@@ -1,1 +1,2 @@
-# Erdos-Model
+# Hill Equation
+In this tutorial, we have built the simplest graph of hill equation. This equation is often utilized in biochemistry, and other related feilds to determine the attachment intensity of ligands to its receptor molecules. It tells us to what extent and how many no. of ligands will bind to the receptor moelcules to create a significant or functional effects. Its applications are in cooperative binding, enzyme kinetics, drug-receptor interactions and ligand-biomolecule binding.
