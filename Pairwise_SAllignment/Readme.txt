@@ -1,0 +1,1 @@
+In this task, we did accomplish the pairwise sequence allignment through local and global methods. For that purpose, Biopython was utilized and different parameters were added as we proceed forward. For the code by code explanation, the comments were added for the easiness.
